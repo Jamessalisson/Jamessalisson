@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @Jamessalisson
 - 👀 I’m interested in website design and marketing
 - 🌱 I’m currently learning coding/programming
-- 💞️ I’m looking to collaborate on programming
